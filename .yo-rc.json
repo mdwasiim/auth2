@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.microservice2"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "auht2miroservice",
+    "packageName": "com.microservice2",
+    "packageFolder": "com/microservice2",
+    "serverPort": "9090",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTM3MjkxM2ViNjA5OWZjZWI5ZjNmY2YzZTc5MmUzM2ZiNmViYjgwNjEyZTQ3MmEwNjZlYjk3Y2Y1OTRiMGVjODJiZjE2YmQ2MGY0MTBlYjVlZThmNzdjMjYzNjFjNTI2OGNjODFhZTgzZTRjMzg3M2Q0NjQ3NWU1MjdlZmMzNjA=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1587129654302,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
